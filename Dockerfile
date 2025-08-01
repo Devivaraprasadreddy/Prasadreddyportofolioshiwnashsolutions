@@ -14,8 +14,9 @@ RUN npm install
 COPY . .
 
 # Build the React app
+RUN npm install react-scripts
 RUN npm run build
-RUN npm install react-script
+
 
 # --------- Step 2: Serve with Nginx ----------
 FROM nginx:alpine
