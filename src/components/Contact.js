@@ -4,6 +4,7 @@ import {
   FaPhoneAlt,
   FaMapMarkerAlt,
   FaLinkedin,
+  FaGitHub,
   FaWhatsapp
 } from 'react-icons/fa';
 import '../App.css';
