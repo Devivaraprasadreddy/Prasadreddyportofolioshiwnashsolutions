@@ -43,6 +43,16 @@ function Contact() {
                     linkedin.com/in/devivaraprasadreddy
                   </a>
                 </p>
+		<p className="contact-info mb-3">
+                  <FaGitHub className="me-2 icon-warning" />
+                  <a
+                    href="https://github.com/Devivaraprasadreddy/Prasadreddyportofolioshiwnashsolutions.git"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    GitHub Repository
+                  </a>
+                </p>
                 <p className="contact-info">
                   <FaWhatsapp className="me-2 icon-warning" />
                   <a
